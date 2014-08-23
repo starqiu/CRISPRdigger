@@ -1,0 +1,47 @@
+<div class=content>
+	
+<form action="/findCRISPR" method="POST"  enctype="multipart/form-data">
+	<table class ="primary_table" width='100%' bgcolor='#ffffff'> 
+		<tr>
+			<th bgcolor='#c0c0c0' valign=bottom width='100%'>
+			<font size=2 face="Arial" >
+			Submit your Own data   </font></th>
+		</tr>
+		
+		<tr>
+	  		<td>
+			<p>
+			Enter sequence (DNA) below using copy and paste:
+			<center>
+			<textarea name="SeqContent" cols=60 rows=6></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p> Or upload a local file: 
+			<input type="hidden" name="MAX_FILE_size" value="100000000" />
+			<input type="file" name="fname" align=middle>
+			</center>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<center>
+					<input type="hidden" name="DIRname" value=210.75.252.209_Aug_23_2014_06_27_56 />
+					<input type=submit value=FindCRISPR align=middle name="submit">
+					<input type=reset  value=Reset align=middle name="reset">
+					<input type="button" value="Toolscompare" name="Toolscompare">
+				</center>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<center>
+					<a href = "/advancedParams" > Advanced version </a>
+				</center>
+			</td>
+		</tr>
+	</table>
+</form>
+
+</div>
