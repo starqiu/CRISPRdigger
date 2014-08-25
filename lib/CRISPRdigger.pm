@@ -17,4 +17,9 @@ get '/advancedParams' => sub {
 	template 'advancedParams';
 };
 
+get '/findCrisprResult' => sub {
+	
+	template 'findCrisprResult';
+};
+
 true;

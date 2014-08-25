@@ -1,0 +1,120 @@
+<h2><font color=#000099>Upload done with success</font></h2> 
+<pre>
+	File name    : <font color=#FF0000> NC_013407.fna </font>
+	File size    : 1771368
+</pre>
+<hr />
+
+
+<li><font color= #000099> Genome : </font>Methanocaldococcus vulcanius M7 chromosome, complete genome
+<li><font color= #000099> Length (bp): </font>1746329
+<li><font color= #000099> ID : </font>gi|261402131|ref|NC_013407.1|
+
+
+<center>
+	<table class = 'primary_table'>
+		<Tr><th colspan =2>Number of obtained structures = 19</th></Tr>
+		<tr>
+			<td>Confirmed structures = 18</td>
+			<td>Questionable structures =  1</td>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li> <a href='#tmp_1_Crispr_1'>tmp_1_Crispr_1</a> </li>
+					<li> <a href='#tmp_1_Crispr_2'>tmp_1_Crispr_2</a> </li>
+					<li> <a href='#tmp_1_Crispr_4'>tmp_1_Crispr_4</a> </li>
+					<li> <a href='#tmp_1_Crispr_5'>tmp_1_Crispr_5</a> </li>
+					<li> <a href='#tmp_1_Crispr_6'>tmp_1_Crispr_6</a> </li>
+					<li> <a href='#tmp_1_Crispr_7'>tmp_1_Crispr_7</a> </li>
+					<li> <a href='#tmp_1_Crispr_8'>tmp_1_Crispr_8</a> </li>
+					<li> <a href='#tmp_1_Crispr_9'>tmp_1_Crispr_9</a> </li>
+					<li> <a href='#tmp_1_Crispr_10'>tmp_1_Crispr_10</a> </li>
+					<li> <a href='#tmp_1_Crispr_11'>tmp_1_Crispr_11</a> </li>
+					<li> <a href='#tmp_1_Crispr_12'>tmp_1_Crispr_12</a> </li>
+					<li> <a href='#tmp_1_Crispr_13'>tmp_1_Crispr_13</a> </li>
+					<li> <a href='#tmp_1_Crispr_14'>tmp_1_Crispr_14</a> </li>
+					<li> <a href='#tmp_1_Crispr_15'>tmp_1_Crispr_15</a> </li>
+					<li> <a href='#tmp_1_Crispr_16'>tmp_1_Crispr_16</a> </li>
+					<li> <a href='#tmp_1_Crispr_17'>tmp_1_Crispr_17</a> </li>
+					<li> <a href='#tmp_1_Crispr_18'>tmp_1_Crispr_18</a> </li>
+					<li> <a href='#tmp_1_Crispr_19'>tmp_1_Crispr_19</a> </li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li> <a href='#tmp_1_PossibleCrispr_3'>tmp_1_PossibleCrispr_3</a> </li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan =2> <a href='#fig' >Clusters localization <a></td>
+		</tr>
+	</table>
+</center>
+<hr>
+<br/>
+
+
+<table class= 'primary_table' width = '100%'>
+	<tr><th>Confirmed structures (18)</th></tr>
+</table>
+<p>   
+<b> <font color= #9900FF><a id =tmp_1_Crispr_1> </a> CRISPR id : </font> tmp_1_Crispr_1 </b>
+<ul>
+	<li>
+		<font color= #000099>START crispr position :</font> 3	 ----------<font color= #000099> END crispr position :</font>  498----------<font color= #000099> Crispr length :</font> 495 
+	</li>
+	<li>
+		<font color= #000099> DR consensus :</font> ATTAAAATCAGCACGGATCGTGATGGAAAC	 <font color= #000099> DR length :</font> 30
+	</li> 
+	<li>
+		<font color= #000099> Number of spacers :</font>  7
+	</li>
+</ul>
+</p>
+<table class ='table2'  BGcolor=#ffffff  width=70%>
+	<tr> 
+		<td align = 'left'> <font size=2.5 color='#000099'> 3	 </font></td>
+		<td align = 'left'>
+			<span style='background:Yellow;'><font size=2.7 face='Courier New'> <b>ATTAAAATCAGCACGGATCGTGATGGAAAC</b> </font></span>
+		</td>
+		<td align = 'left'>
+			<span style='background:Bisque;'><font size=2.7 face= 'Courier New'>TATTGAGATAACAGTTTTAAAATCAATTTATCTTTA </font></span>
+		</td>
+		<td><font size=2.5 color ='#000099'>68</font></td>
+	</tr>
+	<tr> 
+		<td align = 'left'> <font size=2.5 color='#000099'> 69 </font></td>
+		<td align = 'left'>
+			<span style='background:Yellow;'><font size=2.7 face='Courier New'> <b>ATTAAAATCAGCACGGATCGTGATGGAAAC</b> </font></span>
+		</td>
+		<td align = 'left'>
+			<span style='background:Blue;'><font size=2.7 face= 'Courier New'>ATATACTCCCTTGTGTTATTCAAATTAAAAGGTTTA </font></span></td>
+		<td><font size=2.5 color ='#000099'>134</font></td>
+	</tr>
+	
+	<tr> 
+		<td align = 'left'> <font size=2.5 color = '#000099'> 469</font> </td>
+		<td><span style='background:Yellow;'><font size=2.7 face= 'Courier New'> <b>ATTAAAATCAGCACGGGTCGTGATGGAAAC </b> </font></span></td>
+		<td></td>
+		<td><font size=2.5 color = '#000099'>  498</font></td>
+	</tr>
+</table>
+
+<table class= 'table2' BGcolor ='#ffffff'>
+	<tr>
+		<th>
+			<form method="post" action="" enctype="multipart/form-data" target="_blank" onsubmit="popup()">
+				<input type="submit" name="DispSpacer" value="Display spacers" align="middle" />
+			</form>
+		</th>
+		<th>
+			<form method="post" action="" enctype="multipart/form-data" target="_blank" onsubmit="popup()">
+				<input type="submit" name="DispSpacer" value="Crispr Properties" align="middle" />
+			</form>
+		</th>
+	</tr>
+</table>
+<br>
+<br>
